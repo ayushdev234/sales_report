@@ -20,13 +20,13 @@ This is a repository for visualization of sales in a shop by different categorie
 
 # some informtion about dataset to clear the objective
 <p align="center">
-  <img src="Screenshots/Screenshot (233).png" width="200" hspace="20"/>
-  <img src="Screenshots/Screenshot (234).png" width="200" hspace="20"/> 
+  <img src="screenshots/Screenshot (240).png" width="500" hspace="20"/>
+  <img src="screenshots/Screenshot (241).png" width="500" hspace="20"/> 
 </p>
 
 # Screenshots
 <p align="center">
-    <img src="Sales-dashboard-shop.png" width="200" hspace="20"/>
+    <img src="Sales-dashboard-shop.png" width="900" hspace="20"/>
 </p>
 
 
